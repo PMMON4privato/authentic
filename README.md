@@ -1,4 +1,4 @@
-# AuthenticService #
+# AuthenticService Claudio#
 
 This is the service component of [authentic](https://github.com/davidguttman/authentic). This will help decode tokens so that you can authenticate users within a microservice.
 
